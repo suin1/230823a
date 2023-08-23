@@ -15,3 +15,5 @@
   
 ## github에서 내려받기 ##
 ``$ git pull origin main``
+
+## clone과 pull 특징 ##
