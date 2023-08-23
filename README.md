@@ -2,9 +2,9 @@
 
 1. 로컬 저장소 생성
  - `code(git init)`
-2. README.md 파일 생성
+2. README.md 파일 생성<br>
  - touch README.md
- - git add .
+ - git add .<br>
  - git commit -m "내용"
 
 3. 온라인 저장소 생성
